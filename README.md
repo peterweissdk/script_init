@@ -14,7 +14,7 @@ A shell script initialization project that provides a framework for creating and
 ## 🚀 Quick Start
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/script_init.git
+   git clone https://github.com/peterweissdk/script_init.git
    ```
 
 2. Make the script executable:
