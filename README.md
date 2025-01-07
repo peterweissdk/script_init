@@ -36,11 +36,12 @@ A shell script initialization project that provides a framework for creating and
 - `-h, --help`: Show help message
 
 ## 📝 Directory Structure
-```
+```bash
 script_init/
+├── .git
+├── License
 ├── README.md
 └── script_init.sh
-└── .git
 ```
 
 ## 🤝 Contributing
