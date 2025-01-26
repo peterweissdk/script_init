@@ -93,7 +93,7 @@ version() {
 # Prints out help
 help() {
     echo "Run script to setup a new shell script file."
-    echo "Usage: $0 [-i | --install] [-u | --update-version] [-v | --version] [-h | --help]"
+    echo "Usage: $0 [-c | --create] [-i | --install] [-u | --update-version] [-v | --version] [-h | --help]"
 
     exit 0
 }
